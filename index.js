@@ -29,7 +29,7 @@ app.get('/', (req, res) => {
             movie: "/:movieTMDBid",
             show: "/:showTMDBid/:seasonNumber/:episodeNumber"
         },
-        author: "by fr0zen"
+        author: "Honey Rose Ass"
     })
 })
 
